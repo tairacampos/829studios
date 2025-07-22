@@ -1,0 +1,42 @@
+/*
+Theme Name: Blank Canvas
+Theme URI: https://wordpress.com/themes/blank-canvas-3/
+Description: Blank Canvas is a barebones starter theme, stripped off of content templates but only a footer and a header. With its minimal styling, Blank Canvas is a great theme starting fresh with your website.
+Version: 1.0.11
+Author: Automattic
+Author URI: https://automattic.com
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: blank-canvas
+*/
+
+#header {
+    padding: 1em;
+}
+
+#headerimg {
+    max-width: 1160px;
+    margin: 0 auto;
+}
+
+#header a {
+    color: #000;
+    font-size: 20px;
+}
+
+#header a {
+    text-decoration: none;
+}
+
+.container {
+    max-width: 1280px;
+    margin: 0 auto;
+}
+
+.box {
+    height: 100%;
+}
+
+h2.title a {
+    color: #fff;
+}
